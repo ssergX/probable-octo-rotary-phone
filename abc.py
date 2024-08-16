@@ -1,2 +1,6 @@
-def func():
+def test_func():
+    ...
+
+
+def test_func_two():
     ...
